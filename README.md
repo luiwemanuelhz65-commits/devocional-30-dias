@@ -70,11 +70,14 @@ section{
 </head>
 <body>
 
+<!-- Título principal -->
 <section>
 <h1 style="color:#58a6ff;">📘 Devocional 30 Dias</h1>
 <p style="max-width:700px;margin:auto;color:#c9d1d9;">
 Um guia completo para fortalecer sua fé durante 30 dias.
 </p>
+
+<!-- Card sem repetir o título -->
 <div class="card">
 <h2 style="color:#58a6ff;">O que você vai aprender:</h2>
 <p>✔ Constância espiritual</p>
@@ -90,7 +93,6 @@ QUERO FORTALECER MINHA FÉ
 <div class="blur-overlay"></div>
 
 <section>
-<!-- Instagram sem repetir nome do produto -->
 <h2>Me acompanhe no Instagram</h2>
 <a href="https://www.instagram.com/_luisxzr7_" class="btn">Seguir @_luisxzr7_</a>
 </section>
